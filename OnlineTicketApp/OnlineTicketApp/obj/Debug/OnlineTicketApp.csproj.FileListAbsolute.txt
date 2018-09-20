@@ -1,0 +1,10 @@
+C:\Users\Tural Suleymani\source\repos\OnlineTicketApp\OnlineTicketApp\bin\Debug\OnlineTicketApp.exe.config
+C:\Users\Tural Suleymani\source\repos\OnlineTicketApp\OnlineTicketApp\bin\Debug\OnlineTicketApp.exe
+C:\Users\Tural Suleymani\source\repos\OnlineTicketApp\OnlineTicketApp\bin\Debug\OnlineTicketApp.pdb
+C:\Users\Tural Suleymani\source\repos\OnlineTicketApp\OnlineTicketApp\obj\Debug\OnlineTicketApp.csprojAssemblyReference.cache
+C:\Users\Tural Suleymani\source\repos\OnlineTicketApp\OnlineTicketApp\obj\Debug\OnlineTicketApp.MainForm.resources
+C:\Users\Tural Suleymani\source\repos\OnlineTicketApp\OnlineTicketApp\obj\Debug\OnlineTicketApp.Properties.Resources.resources
+C:\Users\Tural Suleymani\source\repos\OnlineTicketApp\OnlineTicketApp\obj\Debug\OnlineTicketApp.csproj.GenerateResource.cache
+C:\Users\Tural Suleymani\source\repos\OnlineTicketApp\OnlineTicketApp\obj\Debug\OnlineTicketApp.csproj.CoreCompileInputs.cache
+C:\Users\Tural Suleymani\source\repos\OnlineTicketApp\OnlineTicketApp\obj\Debug\OnlineTicketApp.exe
+C:\Users\Tural Suleymani\source\repos\OnlineTicketApp\OnlineTicketApp\obj\Debug\OnlineTicketApp.pdb
